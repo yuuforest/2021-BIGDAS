@@ -11,9 +11,9 @@ public class Prob2068 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 
-		int T = Integer.parseInt(br.readLine());
+		// OPITON 1 : 98ms 19344KB
 
-        // OPITON 1 : 98ms 19344KB
+		int T = Integer.parseInt(br.readLine());
 
 		for (int i = 0; i < T; i++) {
 

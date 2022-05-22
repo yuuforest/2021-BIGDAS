@@ -10,9 +10,9 @@ public class Prob2056 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 
+		// OPTION 1 : 101ms 18340KB
+
 		int T = Integer.parseInt(br.readLine());
-        
-        // OPTION 1 : 101ms 18340KB
 
 		for (int i = 0; i < T; i++) {
 

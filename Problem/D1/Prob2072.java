@@ -11,9 +11,9 @@ public class Prob2072 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 
-		int T = Integer.parseInt(br.readLine());
+		// OPTION 1 : 100ms 18740KB
 
-        // OPTION 1 : 100ms 18740KB
+		int T = Integer.parseInt(br.readLine());
 
 		for (int i = 0; i < T; i++) {
 

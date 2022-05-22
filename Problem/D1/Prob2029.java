@@ -2,29 +2,28 @@ package Problem.D1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-// 중간값 찾기
-public class Prob2063 {
+// 몫과 나머지 출력하기
+public class Prob2029 {
     public static void main(String args[]) throws Exception
 	{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 
-		// OPTION 1 : 100ms 18504KB
+        // OPTION 1 : 97ms 18708KB
 
 		int T = Integer.parseInt(br.readLine());
 
-		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-		int[] intArray = new int[T];
-
 		for (int i = 0; i < T; i++) {
-			intArray[i] = Integer.parseInt(st.nextToken());
-		}
 
-		Arrays.sort(intArray);
-		sb.append(intArray[intArray.length/2]);
+			StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+
+			int a = Integer.parseInt(st.nextToken());
+			int b = Integer.parseInt(st.nextToken());
+
+			sb.append("#" + (i+1) + " " + (a/b) + " " + (a%b) + "\n");
+		}
 
 		System.out.println(sb);
 		br.close();

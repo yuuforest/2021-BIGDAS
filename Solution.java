@@ -1,14 +1,22 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 
-class Solution
-{
-	public static void main(String args[]) throws Exception
-	{
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringBuilder sb = new StringBuilder();
+import java.io.FileInputStream;
+import java.util.Scanner;
 
-		System.out.println(sb);
-		br.close();
+class Solution{
+
+	public static void main(String args[]) throws Exception{
+		
+		System.setIn(new FileInputStream("C:/Users/Yu/Desktop/VSCode/JAVA/SWExpertAcademy/src/input.txt"));
+		Scanner sc = new Scanner(System.in);
+		
+		int T = sc.nextInt();
+
+		for (int testcase = 1; testcase < T+1; testcase++) {
+
+			
+
+			System.out.println("#" + testcase);
+		}
+		sc.close();
 	}
 }

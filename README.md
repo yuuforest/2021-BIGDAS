@@ -18,7 +18,6 @@ Crowd abnormal detection, Low resolution crowd images, Facial meta-information, 
 
 ## **🔎 Description**
   * For crowd monitoring using intelligence video surveillance systems
-  
   * To detect crowd abnormal situations using facial meta-information
 
 <br/>
@@ -38,11 +37,8 @@ Crowd abnormal detection, Low resolution crowd images, Facial meta-information, 
 
 ## **🗂 Dataset**
   * Crowd Dataset in real world
-  
   * Extract total of 551 images by sampling 111 videos from [Crowd-11](https://ieeexplore.ieee.org/document/8015005) Dataset
-  
   * Get annotation files by labeling the x and y coordinate values of face region and gender of the face
-  
   * 6,146 male faces and 4,984 female faces in total 11,130 faces 
   
   &nbsp; &nbsp; 👉 [Dataset Download](https://github.com/yuuforest/2021-BIGDAS/blob/main/Dataset/Download.md)

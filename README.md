@@ -42,7 +42,6 @@ Crowd abnormal detection, Low resolution crowd images, Facial meta-information, 
   * 6,146 male faces and 4,984 female faces in total 11,130 faces 
   
   &nbsp; &nbsp; 👉 [Dataset Download](https://github.com/yuuforest/2021-BIGDAS/blob/main/Dataset/Download.md)
-
 <br/>
 
 ![image](https://user-images.githubusercontent.com/62520045/171559069-3d0d113c-a7ae-440c-920a-b4ade6b38a18.png)

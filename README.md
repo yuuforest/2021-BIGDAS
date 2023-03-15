@@ -4,7 +4,7 @@
 ------------
 ## Facial Meta-Information Extraction Scheme from Crowd Images
 
-👉 [Paper Download](https://github.com/krapeun/2021-BIGDAS/blob/main/Facial%20Meta-Information%20Extraction%20Scheme%20from%20Crowd%20Images-%20YOO-SUNG%20KIM.pdf)
+👉 [Paper Download](https://github.com/yuuforest/2021-BIGDAS/blob/main/paper/Facial%20Meta-Information%20Extraction%20Scheme%20from%20Crowd%20Images.pdf)
 
 ### 🔎 Why?
   * For crowd monitoring using intelligence video surveillance systems

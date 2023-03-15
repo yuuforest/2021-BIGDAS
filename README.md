@@ -24,9 +24,13 @@ Crowd abnormal detection, Low resolution crowd images, Facial meta-information, 
 
 ## **📋 Design**
 ![image](https://user-images.githubusercontent.com/62520045/171556664-25e46473-2f27-4c4d-875c-e727513c90f8.png)
+ 
  1.  Face Detection by [YOLO5Face](https://arxiv.org/abs/2105.12931)
+ 
  2.  Comparsion of face face resolution and threshold
+ 
  3.  If the resolution of the face images is smaller than the threshold, Super Resolution by [ESRGAN](https://arxiv.org/abs/1809.00219) to face images
+ 
  4.  Gender Classification by [CNN](https://arxiv.org/abs/1710.07557)
 
 <br/>
@@ -40,7 +44,7 @@ Crowd abnormal detection, Low resolution crowd images, Facial meta-information, 
   
   * 6,146 male faces and 4,984 female faces in total 11,130 faces 
   
-  &nbsp; &nbsp; &nbsp;👉 [Dataset Download](https://github.com/yuuforest/2021-BIGDAS/blob/main/Dataset/Download.md)
+  &nbsp; &nbsp; 👉 [Dataset Download](https://github.com/yuuforest/2021-BIGDAS/blob/main/Dataset/Download.md)
 
 <br/>
 

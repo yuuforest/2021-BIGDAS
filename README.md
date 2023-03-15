@@ -18,6 +18,7 @@ Crowd abnormal detection, Low resolution crowd images, Facial meta-information, 
 
 ## **🔎 Description**
   * For crowd monitoring using intelligence video surveillance systems
+  
   * To detect crowd abnormal situations using facial meta-information
 
 <br/>

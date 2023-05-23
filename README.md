@@ -1,7 +1,7 @@
 
 #  📹 An Accurate Extraction of Facial Meta-Information Using Selective Super Resolution from Crowd Images
 
-### 2021 BIGDAS Conference 2021.1 ~ 2021.9
+### 2021 BIGDAS Conference 2021.1 ~ 2021.12
 
 <br/>
 

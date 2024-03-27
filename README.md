@@ -69,7 +69,7 @@ Performane evaluation by Face detection [YOLO5Face](https://arxiv.org/abs/2105.1
 | Easy Case | 87.67% | 84.41% |
 | Medium Case | 85.04% | 80.32% |
 | Hard Case | 74.79% | 59.99% |
-| Total | 74.79% | 71.1% |
+| Total | 80.6% | 71.1% |
 
 <br/>
 
